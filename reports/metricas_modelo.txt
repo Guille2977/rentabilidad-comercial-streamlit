@@ -1,0 +1,41 @@
+MÉTRICAS DEL MODELO PREDICTIVO
+============================================================
+
+Dataset: 2121 registros y 29 columnas
+Modelo: Random Forest Classifier
+Variable objetivo: venta_no_rentable
+
+Variables predictoras utilizadas:
+- ship_mode
+- segment
+- region
+- sub_category
+- sales
+- quantity
+- discount
+- dias_envio
+- anio
+- mes
+- trimestre
+
+Métricas:
+Accuracy: 0.8965
+Precision: 0.9417
+Recall: 0.7533
+F1-score: 0.837
+ROC-AUC: 0.9586
+F1 promedio CV: 0.8412
+
+Matriz de confusión:
+[[268   7]
+ [ 37 113]]
+
+Reporte de clasificación:
+              precision    recall  f1-score   support
+
+           0       0.88      0.97      0.92       275
+           1       0.94      0.75      0.84       150
+
+    accuracy                           0.90       425
+   macro avg       0.91      0.86      0.88       425
+weighted avg       0.90      0.90      0.89       425
