@@ -8,7 +8,8 @@ Este reporte documenta las visualizaciones generadas durante la etapa de Anális
 
 ## Figura 1. Distribución de ventas rentables y no rentables
 
-**Archivo:** `reports/figuras/01_distribucion_rentabilidad.png`
+<img width="600" height="400" alt="01_distribucion_rentabilidad" src="https://github.com/user-attachments/assets/afefe696-d6e9-46f5-b271-24d8be9f6539" />
+
 
 Esta figura muestra la cantidad de ventas clasificadas como rentables y no rentables. La clasificación se realiza a partir de la variable `venta_no_rentable`, donde una venta se considera no rentable cuando su utilidad es menor o igual a cero.
 
@@ -24,7 +25,7 @@ La figura permite comprender el balance inicial de la variable objetivo utilizad
 
 ## Figura 2. Ventas totales por mes
 
-**Archivo:** `reports/figuras/02_ventas_por_mes.png`
+<img width="1200" height="500" alt="02_ventas_por_mes" src="https://github.com/user-attachments/assets/6f52abb5-c074-4825-9b41-fac39f69427d" />
 
 Esta figura muestra la evolución de las ventas totales a lo largo del tiempo, agrupadas por año y mes.
 
@@ -40,7 +41,7 @@ La visualización temporal permite analizar el comportamiento comercial del nego
 
 ## Figura 3. Utilidad total por región
 
-**Archivo:** `reports/figuras/03_utilidad_por_region.png`
+<img width="700" height="400" alt="03_utilidad_por_region" src="https://github.com/user-attachments/assets/a69f39ea-7054-4ea3-8936-f586934aba15" />
 
 Esta figura presenta la utilidad acumulada por cada región incluida en el dataset.
 
@@ -56,7 +57,7 @@ La utilidad por región ayuda a identificar zonas geográficas con mejor o peor 
 
 ## Figura 4. Utilidad total por segmento
 
-**Archivo:** `reports/figuras/04_utilidad_por_segmento.png`
+<img width="700" height="400" alt="04_utilidad_por_segmento" src="https://github.com/user-attachments/assets/2721b6c1-6d06-469d-bfc7-ff541cf2aa12" />
 
 Esta figura muestra la utilidad total generada por cada segmento de cliente.
 
@@ -72,7 +73,7 @@ El análisis por segmento permite orientar mejor las estrategias comerciales. Si
 
 ## Figura 5. Utilidad total por subcategoría
 
-**Archivo:** `reports/figuras/05_utilidad_por_subcategoria.png`
+<img width="800" height="400" alt="05_utilidad_por_subcategoria" src="https://github.com/user-attachments/assets/82c57ea2-4ea2-41bb-ae81-dffe88518a37" />
 
 Esta figura muestra la utilidad acumulada por subcategoría de producto.
 
@@ -88,7 +89,7 @@ La figura permite detectar subcategorías que aportan valor al negocio y subcate
 
 ## Figura 6. Relación entre descuento y utilidad
 
-**Archivo:** `reports/figuras/06_descuento_vs_utilidad.png`
+<img width="800" height="500" alt="06_descuento_vs_utilidad" src="https://github.com/user-attachments/assets/fd5fa272-d61f-4d95-9588-767ca50f6cad" />
 
 Esta figura representa la relación entre el descuento aplicado y la utilidad obtenida en cada venta.
 
@@ -104,7 +105,7 @@ Esta visualización es clave para analizar el impacto de los descuentos en la re
 
 ## Figura 7. Top 10 productos con mayor pérdida acumulada
 
-**Archivo:** `reports/figuras/07_top_productos_perdida.png`
+<img width="1000" height="500" alt="07_top_productos_perdida" src="https://github.com/user-attachments/assets/653b44ed-b22b-4618-b7aa-78b56d0569de" />
 
 Esta figura muestra los diez productos con mayor pérdida acumulada en el dataset.
 
@@ -120,7 +121,7 @@ La identificación de productos con mayor pérdida es importante para la gestió
 
 ## Figura 8. Top 10 productos con mayor ganancia acumulada
 
-**Archivo:** `reports/figuras/08_top_productos_ganancia.png`
+<img width="1000" height="500" alt="08_top_productos_ganancia" src="https://github.com/user-attachments/assets/bb5605c6-d7c4-4523-aa05-ea1c49c453c6" />
 
 Esta figura presenta los diez productos con mayor ganancia acumulada.
 
@@ -136,7 +137,7 @@ Los productos con mayor ganancia pueden ser priorizados en campañas, promocione
 
 ## Figura 9. Distribución por nivel de descuento
 
-**Archivo:** `reports/figuras/09_nivel_descuento.png`
+<img width="600" height="400" alt="09_nivel_descuento" src="https://github.com/user-attachments/assets/12560bce-5b31-4171-8cc6-5d6a579e0597" />
 
 Esta figura muestra la cantidad de ventas clasificadas según el nivel de descuento aplicado: bajo, medio o alto.
 
@@ -152,7 +153,7 @@ La distribución del nivel de descuento ayuda a comprender la política comercia
 
 ## Figura 10. Matriz de correlación de variables numéricas
 
-**Archivo:** `reports/figuras/10_matriz_correlacion.png`
+<img width="1000" height="700" alt="10_matriz_correlacion" src="https://github.com/user-attachments/assets/8b3fe493-7b43-4e23-be29-cd380c096e28" />
 
 Esta figura muestra la correlación entre las variables numéricas del dataset.
 
