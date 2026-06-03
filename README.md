@@ -302,7 +302,7 @@ Principales funcionalidades:
 Cuando la aplicación esté desplegada, se podrá acceder desde el siguiente enlace:
 
 ```text
-Enlace de la app: pendiente de despliegue
+[Enlace de la app: pendiente de despliegue](https://rentabilidad-comercial-app-fe2xk7fe52fpseafjtfawt.streamlit.app/)
 ```
 
 ---
