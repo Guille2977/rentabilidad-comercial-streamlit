@@ -288,6 +288,8 @@ Estos archivos permiten conservar el flujo completo del proyecto, desde los dato
 
 La aplicación permite analizar el comportamiento comercial de las ventas de mobiliario mediante una interfaz interactiva.
 
+<img width="1890" height="863" alt="image" src="https://github.com/user-attachments/assets/23ea5ac3-f64e-4e02-bb05-509f15875e47" />
+
 Principales funcionalidades:
 
 * Visualización de KPIs comerciales.
